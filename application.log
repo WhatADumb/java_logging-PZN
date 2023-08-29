@@ -1,0 +1,47 @@
+2023-08-29 20:06:10.058 [main] INFO  deploy.DeployLevelTest - [] - Hello, Info!
+2023-08-29 20:06:10.062 [main] WARN  deploy.DeployLevelTest - [] - Hello, Warn!
+2023-08-29 20:06:10.063 [main] ERROR deploy.DeployLevelTest - [] - Hello, Error!
+2023-08-29 ~ 20:32:12.347 [main] TRACE study.java.logging.LevelTest - [] - Hello, Trace!
+2023-08-29 ~ 20:32:12.350 [main] DEBUG study.java.logging.LevelTest - [] - Hello, Debug!
+2023-08-29 ~ 20:32:12.350 [main] INFO  study.java.logging.LevelTest - [] - Hello, Info!
+2023-08-29 ~ 20:32:12.351 [main] WARN  study.java.logging.LevelTest - [] - Hello, Warn!
+2023-08-29 ~ 20:32:12.352 [main] ERROR study.java.logging.LevelTest - [] - Hello, Error!
+2023-08-29 ~ 21:01:33.082 [main] INFO  study.java.logging.MyController - [] - aaef981a-72e6-4b22-b63b-f967c8328273 : Controller saved
+2023-08-29 ~ 21:01:33.096 [main] INFO  study.java.logging.MyService - [] - aaef981a-72e6-4b22-b63b-f967c8328273 : Service saved
+2023-08-29 ~ 21:01:33.097 [main] INFO  study.java.logging.MyRepository - [] - aaef981a-72e6-4b22-b63b-f967c8328273 : Repository saved
+2023-08-29 ~ 21:14:46.737 [main] INFO  study.java.logging.MyController - [] - Controller saved
+2023-08-29 ~ 21:14:46.740 [main] INFO  study.java.logging.MyService - [] - Service saved
+2023-08-29 ~ 21:14:46.740 [main] INFO  study.java.logging.MyRepository - [] - Repository saved
+2023-08-29 ~ 21:17:31.577 [main] INFO  study.java.logging.MyController - [3f198f14-5b51-4d6f-9cc9-55fb3385c176] - Controller saved
+2023-08-29 ~ 21:17:31.580 [main] INFO  study.java.logging.MyService - [3f198f14-5b51-4d6f-9cc9-55fb3385c176] - Service saved
+2023-08-29 ~ 21:17:31.580 [main] INFO  study.java.logging.MyRepository - [3f198f14-5b51-4d6f-9cc9-55fb3385c176] - Repository saved
+2023-08-29 ~ 21:20:15.814 [Thread-6] INFO  study.java.logging.MyController - [40bdbed9-afe0-4f84-b64b-27b9f8a0e47d] - Controller saved
+2023-08-29 ~ 21:20:15.815 [Thread-8] INFO  study.java.logging.MyController - [65675c99-a0e3-4def-bfe2-c05082083050] - Controller saved
+2023-08-29 ~ 21:20:15.815 [Thread-9] INFO  study.java.logging.MyController - [b42d96a4-5546-4395-9f53-c3565b110bb0] - Controller saved
+2023-08-29 ~ 21:20:15.814 [Thread-5] INFO  study.java.logging.MyController - [35b7e4db-54df-4b93-b827-023ab5a229ab] - Controller saved
+2023-08-29 ~ 21:20:15.815 [Thread-2] INFO  study.java.logging.MyController - [615a5cfc-bace-4f47-a8d1-2096eb9cf5b5] - Controller saved
+2023-08-29 ~ 21:20:15.815 [Thread-0] INFO  study.java.logging.MyController - [dca0ce2d-9887-4ca1-bf5a-64400c605b88] - Controller saved
+2023-08-29 ~ 21:20:15.819 [Thread-6] INFO  study.java.logging.MyService - [40bdbed9-afe0-4f84-b64b-27b9f8a0e47d] - Service saved
+2023-08-29 ~ 21:20:15.815 [Thread-3] INFO  study.java.logging.MyController - [f8657bf5-3982-4a79-8242-61f96d92b9ab] - Controller saved
+2023-08-29 ~ 21:20:15.820 [Thread-0] INFO  study.java.logging.MyService - [dca0ce2d-9887-4ca1-bf5a-64400c605b88] - Service saved
+2023-08-29 ~ 21:20:15.820 [Thread-6] INFO  study.java.logging.MyRepository - [40bdbed9-afe0-4f84-b64b-27b9f8a0e47d] - Repository saved
+2023-08-29 ~ 21:20:15.815 [Thread-7] INFO  study.java.logging.MyController - [35207a66-c12f-4fd2-9570-1dfe46507c13] - Controller saved
+2023-08-29 ~ 21:20:15.815 [Thread-4] INFO  study.java.logging.MyController - [61267b60-340f-4705-a49f-9e69a0c81f50] - Controller saved
+2023-08-29 ~ 21:20:15.821 [Thread-7] INFO  study.java.logging.MyService - [35207a66-c12f-4fd2-9570-1dfe46507c13] - Service saved
+2023-08-29 ~ 21:20:15.815 [Thread-1] INFO  study.java.logging.MyController - [ee2b6ec2-b101-4744-812e-b94f860b41da] - Controller saved
+2023-08-29 ~ 21:20:15.821 [Thread-7] INFO  study.java.logging.MyRepository - [35207a66-c12f-4fd2-9570-1dfe46507c13] - Repository saved
+2023-08-29 ~ 21:20:15.821 [Thread-4] INFO  study.java.logging.MyService - [61267b60-340f-4705-a49f-9e69a0c81f50] - Service saved
+2023-08-29 ~ 21:20:15.820 [Thread-2] INFO  study.java.logging.MyService - [615a5cfc-bace-4f47-a8d1-2096eb9cf5b5] - Service saved
+2023-08-29 ~ 21:20:15.822 [Thread-4] INFO  study.java.logging.MyRepository - [61267b60-340f-4705-a49f-9e69a0c81f50] - Repository saved
+2023-08-29 ~ 21:20:15.820 [Thread-5] INFO  study.java.logging.MyService - [35b7e4db-54df-4b93-b827-023ab5a229ab] - Service saved
+2023-08-29 ~ 21:20:15.821 [Thread-3] INFO  study.java.logging.MyService - [f8657bf5-3982-4a79-8242-61f96d92b9ab] - Service saved
+2023-08-29 ~ 21:20:15.820 [Thread-9] INFO  study.java.logging.MyService - [b42d96a4-5546-4395-9f53-c3565b110bb0] - Service saved
+2023-08-29 ~ 21:20:15.823 [Thread-3] INFO  study.java.logging.MyRepository - [f8657bf5-3982-4a79-8242-61f96d92b9ab] - Repository saved
+2023-08-29 ~ 21:20:15.823 [Thread-9] INFO  study.java.logging.MyRepository - [b42d96a4-5546-4395-9f53-c3565b110bb0] - Repository saved
+2023-08-29 ~ 21:20:15.822 [Thread-2] INFO  study.java.logging.MyRepository - [615a5cfc-bace-4f47-a8d1-2096eb9cf5b5] - Repository saved
+2023-08-29 ~ 21:20:15.822 [Thread-5] INFO  study.java.logging.MyRepository - [35b7e4db-54df-4b93-b827-023ab5a229ab] - Repository saved
+2023-08-29 ~ 21:20:15.821 [Thread-0] INFO  study.java.logging.MyRepository - [dca0ce2d-9887-4ca1-bf5a-64400c605b88] - Repository saved
+2023-08-29 ~ 21:20:15.821 [Thread-1] INFO  study.java.logging.MyService - [ee2b6ec2-b101-4744-812e-b94f860b41da] - Service saved
+2023-08-29 ~ 21:20:15.820 [Thread-8] INFO  study.java.logging.MyService - [65675c99-a0e3-4def-bfe2-c05082083050] - Service saved
+2023-08-29 ~ 21:20:15.825 [Thread-1] INFO  study.java.logging.MyRepository - [ee2b6ec2-b101-4744-812e-b94f860b41da] - Repository saved
+2023-08-29 ~ 21:20:15.825 [Thread-8] INFO  study.java.logging.MyRepository - [65675c99-a0e3-4def-bfe2-c05082083050] - Repository saved
